@@ -1,0 +1,164 @@
+[
+    {
+        "contestId": 1245,
+        "contestName": "Codeforces Round #597 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 3233,
+        "ratingUpdateTimeSeconds": 1572626100,
+        "oldRating": 0,
+        "newRating": 1470
+    },
+    {
+        "contestId": 1324,
+        "contestName": "Codeforces Round #627 (Div. 3)",
+        "handle": "thedonutguy",
+        "rank": 1506,
+        "ratingUpdateTimeSeconds": 1584025500,
+        "oldRating": 1470,
+        "newRating": 1490
+    },
+    {
+        "contestId": 1327,
+        "contestName": "Educational Codeforces Round 84 (Rated for Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 9848,
+        "ratingUpdateTimeSeconds": 1584981300,
+        "oldRating": 1490,
+        "newRating": 1405
+    },
+    {
+        "contestId": 1332,
+        "contestName": "Codeforces Round #630 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 3031,
+        "ratingUpdateTimeSeconds": 1585670700,
+        "oldRating": 1405,
+        "newRating": 1473
+    },
+    {
+        "contestId": 1333,
+        "contestName": "Codeforces Round #632 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 5868,
+        "ratingUpdateTimeSeconds": 1586363700,
+        "oldRating": 1473,
+        "newRating": 1454
+    },
+    {
+        "contestId": 1334,
+        "contestName": "Educational Codeforces Round 85 (Rated for Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 9106,
+        "ratingUpdateTimeSeconds": 1586536500,
+        "oldRating": 1454,
+        "newRating": 1396
+    },
+    {
+        "contestId": 1339,
+        "contestName": "Codeforces Round #633 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 6345,
+        "ratingUpdateTimeSeconds": 1586707500,
+        "oldRating": 1396,
+        "newRating": 1367
+    },
+    {
+        "contestId": 1335,
+        "contestName": "Codeforces Round #634 (Div. 3)",
+        "handle": "thedonutguy",
+        "rank": 2087,
+        "ratingUpdateTimeSeconds": 1586795700,
+        "oldRating": 1367,
+        "newRating": 1435
+    },
+    {
+        "contestId": 1337,
+        "contestName": "Codeforces Round #635 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 11804,
+        "ratingUpdateTimeSeconds": 1586970300,
+        "oldRating": 1435,
+        "newRating": 1341
+    },
+    {
+        "contestId": 1343,
+        "contestName": "Codeforces Round #636 (Div. 3)",
+        "handle": "thedonutguy",
+        "rank": 1205,
+        "ratingUpdateTimeSeconds": 1587486900,
+        "oldRating": 1341,
+        "newRating": 1452
+    },
+    {
+        "contestId": 1341,
+        "contestName": "Codeforces Round #637 (Div. 2) - Thanks, Ivan Belonogov!",
+        "handle": "thedonutguy",
+        "rank": 3000,
+        "ratingUpdateTimeSeconds": 1587662100,
+        "oldRating": 1452,
+        "newRating": 1504
+    },
+    {
+        "contestId": 1350,
+        "contestName": "Codeforces Round #641 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 1704,
+        "ratingUpdateTimeSeconds": 1589295900,
+        "oldRating": 1504,
+        "newRating": 1566
+    },
+    {
+        "contestId": 1353,
+        "contestName": "Codeforces Round #642 (Div. 3)",
+        "handle": "thedonutguy",
+        "rank": 2567,
+        "ratingUpdateTimeSeconds": 1589474100,
+        "oldRating": 1566,
+        "newRating": 1558
+    },
+    {
+        "contestId": 1355,
+        "contestName": "Codeforces Round #643 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 3599,
+        "ratingUpdateTimeSeconds": 1589636100,
+        "oldRating": 1558,
+        "newRating": 1562
+    },
+    {
+        "contestId": 1354,
+        "contestName": "Educational Codeforces Round 87 (Rated for Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 4820,
+        "ratingUpdateTimeSeconds": 1589714400,
+        "oldRating": 1562,
+        "newRating": 1521
+    },
+    {
+        "contestId": 1360,
+        "contestName": "Codeforces Round #644 (Div. 3)",
+        "handle": "thedonutguy",
+        "rank": 3357,
+        "ratingUpdateTimeSeconds": 1590334500,
+        "oldRating": 1521,
+        "newRating": 1490
+    },
+    {
+        "contestId": 1359,
+        "contestName": "Educational Codeforces Round 88 (Rated for Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 5760,
+        "ratingUpdateTimeSeconds": 1590683700,
+        "oldRating": 1490,
+        "newRating": 1462
+    },
+    {
+        "contestId": 1363,
+        "contestName": "Codeforces Round #646 (Div. 2)",
+        "handle": "thedonutguy",
+        "rank": 1740,
+        "ratingUpdateTimeSeconds": 1590942900,
+        "oldRating": 1462,
+        "newRating": 1563
+    }
+]
